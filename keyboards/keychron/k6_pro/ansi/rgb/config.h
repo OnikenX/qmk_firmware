@@ -35,7 +35,8 @@
 #    define RGB_MATRIX_BRIGHTNESS_TURN_OFF_VAL 32
 
 #    define DIM_CAPS_LOCK
-#    define CAPS_LOCK_INDEX 30
+#    define CAPS_LOCK_INDEX    30
+#    define NUM_LOCK_INDEX 14
 #    define LOW_BAT_IND_INDEX 61
 
 /* RGB Matrix Animation modes. Explicitly enabled
